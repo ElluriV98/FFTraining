@@ -1,0 +1,9 @@
+05-06-2020 08:48:13
+Some details you want to log.
+
+05-06-2020 08:49:37
+Some details you want to log.
+
+05-06-2020 08:50:41
+Some details you want to log.
+
